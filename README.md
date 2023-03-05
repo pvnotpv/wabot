@@ -34,6 +34,8 @@ Whatsapp bot with tons of commands and features.
   sendd*ck(send dickpics to someone), sendb**ba(send boobs), \n**IMAGE** - b**bs, p*ssy, cum, ass, lesbian, milfs, kimono, egirl, asian, hentai, r34
 </details>
 
+## SETUP
+
 - Uses mongodb as primary db and redis to cache, so the bot is pretty fast.
 
 
