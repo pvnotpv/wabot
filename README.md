@@ -1,7 +1,7 @@
 Not your average whatsapp bot. 
 
 # Wabot-3.7.0
-Whatsapp bot with tons of commands
+Whatsapp bot with tons of commands and features.
 
 ## COMMANDS
 <details> 
