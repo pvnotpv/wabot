@@ -1,0 +1,42 @@
+.center {
+    text-align: center;
+    color: white;
+}
+
+body {
+    background-color:black;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+hr {
+    border-color: #7289da;
+}
+
+textarea {
+    overflow-y:scroll;
+    height:300px;
+    max-width: 98%;
+    color: white;
+    background-color: #121212;
+    border: solid 2px 	#7289da
+}
+
+button {
+    border-radius: 5px;
+    border: 2px solid 	#7289da;
+    color: white;
+    margin-right: 13px;
+}
+
+
+.glow {
+    animation: glow .5s infinite alternate;
+}
+
+@keyframes glow {
+    to {
+        text-shadow: 0 0 10px white;
+    }
+}

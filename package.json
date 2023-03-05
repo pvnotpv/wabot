@@ -1,0 +1,25 @@
+{
+  "name": "wabot",
+  "version": "3.6.0",
+  "description": "waBot with a webApp",
+  "main": "main.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "ISC",
+  "author": "pvnotpv",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "fs-jetpack": "^5.1.0",
+    "http": "^0.0.1-security",
+    "ioredis": "^5.3.1",
+    "jimp": "^0.22.7",
+    "mongoose": "^6.9.0",
+    "openai": "^3.2.1",
+    "qrcode": "^1.5.1",
+    "snoowrap": "^1.23.0",
+    "socket.io": "^4.6.1",
+    "whatsapp-web.js": "^1.19.4"
+  }
+}

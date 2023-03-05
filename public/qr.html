@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>The WaBot</title>
+    <link href="css/style.css" rel="stylesheet" type="text/css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <div class="center">
+        <h1>qrCode - Multi Device</h1>
+        <hr>
+        <div class="qrcode">
+            <button id="qr" onclick="qrcode()">SCAN</button>
+            <br>
+            <br>
+            <img src="" alt="QR Code" id="qrcode" width="400" height="400">
+        </div>
+    </div>
+<script src="/socket.io/socket.io.js"></script>
+<script src="js/qr.js"></script>
+</body>
+</html>
