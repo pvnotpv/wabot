@@ -14,8 +14,6 @@ Not your average whatsapp bot.
 
 <details> 
   <summary>NSFW COMMANDS</summary>
-  - sendd*ck(send dickpics to someone), sendb**ba
-  ### NSFW IMAGES
-  - b**bs, p*ssy, cum, ass, lesbian, milfs, kimono, egirl, asian, hentai, r34
+  sendd*ck(send dickpics to someone), sendb**bb, IMAGE - b**bs, p*ssy, cum, ass, lesbian, milfs, kimono, egirl, asian, hentai, r34
 </details>
 
