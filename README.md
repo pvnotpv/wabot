@@ -27,7 +27,7 @@ Whatsapp bot with tons of commands and features.
 
 ## APIS USED
 
-Insult Api - https://insult.mattbas.org/api/
-Mom jokes - https://yomomma.info/
-Snoowrap for reddit - https://not-an-aardvark.github.io/snoowrap
-Whatsapp-web.js - https://wwebjs.dev/
+- Insult Api - https://insult.mattbas.org/api/
+- Mom jokes - https://yomomma.info/
+- Snoowrap for reddit - https://not-an-aardvark.github.io/snoowrap
+- Whatsapp-web.js - https://wwebjs.dev/
