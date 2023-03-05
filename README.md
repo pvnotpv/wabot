@@ -25,6 +25,8 @@ Whatsapp bot with tons of commands and features.
 - Edit the .env file.
 - Just watch a simple video on youtube to setup mongodb and change the db url.
 - There are tons of guides on google on setting up Snoowrap for reddit.
+- npm run start 
+- Visit localhost:8080/qrcode, scan the qr and you're pretty good to go.
 
 ## APIS USED
 
