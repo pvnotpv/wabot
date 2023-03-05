@@ -5,7 +5,7 @@ const { MessageMedia } = require('whatsapp-web.js');
 // ISSUES WITH THE WHATSAPP API, HIGH CHANCE OF BREAKING THE BOT. SO DON'T USE THIS COMMAND :) 
 
 const configuration = new Configuration({
-  apiKey: "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",
+  apiKey: "sk-",
 });
 
 const openai = new OpenAIApi(configuration);
