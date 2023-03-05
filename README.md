@@ -5,8 +5,8 @@ Whatsapp bot with tons of commands and features.
 
 
 <p float="left">
-  <img src="https://github.com/pvnotpv/wabot/blob/main/imgs/1.jpg?raw=true" width="250" />
-  <img src="https://github.com/pvnotpv/wabot/blob/main/imgs/2.jpg?raw=true" width="200" />
-  <img src="https://github.com/pvnotpv/wabot/blob/main/imgs/3.jpg?raw=true" width="250" />
-  <img src="https://github.com/pvnotpv/wabot/blob/main/imgs/4.jpg?raw=true" width="250" />
+  <img src="https://github.com/pvnotpv/wabot/blob/main/imgs/1.jpg?raw=true" width="300" />
+  <img src="https://github.com/pvnotpv/wabot/blob/main/imgs/2.jpg?raw=true" width="300" />
+  <img src="https://github.com/pvnotpv/wabot/blob/main/imgs/3.jpg?raw=true" width="300" />
+  <img src="https://github.com/pvnotpv/wabot/blob/main/imgs/4.jpg?raw=true" width="300" />
 </p>
