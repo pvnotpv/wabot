@@ -19,3 +19,15 @@ Whatsapp bot with tons of commands and features.
 - NSFW commands can be enabled/disabled by admins.
 - You won't be banned from WhatsApp unless you make the bot public, Just add the bot to your friends/family groups but nothing else.
 - You can host the bot for free on Railway, 500 hours per month free. 
+
+## SETUP
+- Edit the .env file.
+- Just watch a simple video on youtube to setup mongodb and change the db url.
+- There are tons of guides on google on setting up Snoowrap for reddit.
+
+## APIS USED
+
+Insult Api - https://insult.mattbas.org/api/
+Mom jokes - https://yomomma.info/
+Snoowrap for reddit - https://not-an-aardvark.github.io/snoowrap
+Whatsapp-web.js - https://wwebjs.dev/
