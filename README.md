@@ -16,6 +16,8 @@ Whatsapp bot with tons of commands and features.
   
 </p>
 
+### AND MUCH MORE !!!
+
 ## MISC
 
 - Uses mongodb as primary db and redis(even for images) to cache, so the bot is pretty fast.
@@ -24,10 +26,10 @@ Whatsapp bot with tons of commands and features.
 - You can host the bot for free on Railway, 500 hours per month free. 
 
 ## SETUP
+- Clone the repo -> yarn --add to install dependencies.
 - Edit the .env file.
 - Just watch a simple video on youtube to setup mongodb and change the db url.
-- There are tons of guides on google on setting up Snoowrap for reddit.
-- npm run start 
+- There are tons of guides on google to setup Snoowrap for reddit.
 - Visit localhost:8080/qrcode, scan the qr and you're pretty good to go.
 
 ## APIS USED
