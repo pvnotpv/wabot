@@ -11,7 +11,9 @@ Whatsapp bot with tons of commands and features.
 
 <p float="left">
   <img src="https://github.com/pvnotpv/wabot/blob/main/imgs/4.jpg?raw=true" width="300" />
-   <img src="https://github.com/pvnotpv/wabot/blob/main/imgs/5.jpg?raw=true" width="300" />
+  <img src="https://github.com/pvnotpv/wabot/blob/main/imgs/cwh.jpg?raw=true" width="300" />
+  <img src="https://github.com/pvnotpv/wabot/blob/main/imgs/5.jpg?raw=true" width="300" />
+  
 </p>
 
 ## MISC
