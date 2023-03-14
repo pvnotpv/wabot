@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "license": "ISC",
+  "license": "MIT",
   "author": "pvnotpv",
   "repository": {
     "type": "git",
