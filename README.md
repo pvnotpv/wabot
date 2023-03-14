@@ -25,12 +25,17 @@ Whatsapp bot with tons of commands and features.
 - You can host the bot for free on Railway, 500 hours per month free. 
 
 ## SETUP
-- Just run the docker file. 
-- OR
-- Clone the repo -> yarn --add to install dependencies.
+- Clone the repo 
 - Edit the .env file.
 - Watch a video on youtube to setup mongodb and change the db url.
 - There are tons of guides on google to setup Snoowrap for reddit.
+
+- Use the docker file.
+- docker build -t wabot .
+- docker run -p 8080:8080 wabot
+OR
+- yarn --add to install dependencies.
+- yarn run start
 - Visit localhost:8080/qrcode, scan the qr and you're pretty good to go.
 
 ## APIS USED
