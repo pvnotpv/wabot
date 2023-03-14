@@ -25,6 +25,7 @@ Whatsapp bot with tons of commands and features.
 - You can host the bot for free on Railway, 500 hours per month free. 
 
 ## SETUP
+
 - Clone the repo 
 - Edit the .env file.
 - Watch a video on youtube to setup mongodb and change the db url.
