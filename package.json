@@ -2,7 +2,7 @@
   "name": "wabot",
   "version": "3.7.0",
   "description": "waBot with a webApp",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
