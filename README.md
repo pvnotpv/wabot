@@ -31,10 +31,12 @@ Whatsapp bot with tons of commands and features.
 - Watch a video on youtube to setup mongodb and change the db url.
 - There are tons of guides on google to setup Snoowrap for reddit.
 
+### Docker file method
 - Use the docker file.
 - docker build -t wabot .
 - docker run -p 8080:8080 wabot
-OR
+
+### Manual
 - yarn --add to install dependencies.
 - yarn run start
 - Visit localhost:8080/qrcode, scan the qr and you're pretty good to go.
