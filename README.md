@@ -6,7 +6,7 @@ Whatsapp bot with tons of commands and features.
 <p float="left">
   <img src="https://github.com/pvnotpv/wabot/blob/main/imgs/1.gif?raw=true" width="250" />
   <img src="https://github.com/pvnotpv/wabot/blob/main/imgs/2.gif?raw=true" width="250" />
-   <img src="https://github.com/pvnotpv/wabot/blob/main/imgs/3.jpg?raw=true" width="250" />
+   <img src="https://github.com/pvnotpv/wabot/blob/main/imgs/3.gif?raw=true" width="250" />
 </p>
 
 <p float="left">
