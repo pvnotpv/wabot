@@ -14,6 +14,7 @@ Whatsapp bot with tons of commands and features.
   <img src="https://github.com/pvnotpv/wabot/blob/main/imgs/cwh.jpg?raw=true" width="250" />
   <img src="https://github.com/pvnotpv/wabot/blob/main/imgs/5.jpg?raw=true" width="250" />
 </p>
+(gifs may take a bit to load.)
 
 ## AND MUCH MORE !!!
 
