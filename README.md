@@ -33,12 +33,13 @@ Whatsapp bot with tons of commands and features.
 - There are tons of guides on google to setup Snoowrap for reddit.
 
 ### Docker file method
-- Use the docker file.
+- Make sure to run the redis docker image.
 - docker build -t wabot .
 - docker run -p 8080:8080 wabot
 
 ### Manual
 - yarn --add to install dependencies.
+- You need to have redis-server running on localhost.
 - yarn run start
 - Visit localhost:8080/qrcode, scan the qr and you're pretty good to go.
 
