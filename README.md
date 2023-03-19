@@ -3,7 +3,7 @@ Not your average whatsapp bot.
 # Wabot-3.7.0
 Whatsapp bot with tons of commands and features.
 
-All images are fetched from reddit.
+All images are fetched from reddit and cached in-memory every 5 minutes.
 
 <p float="left">
   <img src="https://github.com/pvnotpv/wabot/blob/main/imgs/1.gif?raw=true" width="250" />
