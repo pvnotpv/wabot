@@ -20,7 +20,6 @@
     "ioredis": "^5.3.1",
     "jimp": "^0.22.7",
     "mongoose": "^6.9.0",
-    "openai": "^3.2.1",
     "qrcode": "^1.5.1",
     "snoowrap": "^1.23.0",
     "socket.io": "^4.6.1",
