@@ -48,3 +48,6 @@ All images are fetched from reddit and cached in-memory every 5 minutes.
 - Mom jokes - https://yomomma.info/
 - Snoowrap for reddit - https://not-an-aardvark.github.io/snoowrap
 - Whatsapp-web.js - https://wwebjs.dev/
+
+![:pv](https://counter.max.srl/get/@:pvwabot)
+(From 28/1/24)
