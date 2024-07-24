@@ -1,5 +1,7 @@
 Not your average whatsapp bot. 
 
+PS: THIS USED TO BE MY LOCKDOWN PROJECT AND YE... THE PROJECT IS FAR FROM DEAD.
+
 # Wabot-3.7.0
 
 All images are fetched from reddit and cached in-memory every 5 minutes.
