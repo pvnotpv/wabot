@@ -11,10 +11,13 @@ All images are fetched from reddit and cached in-memory every 5 minutes.
   <img src="https://github.com/pvnotpv/wabot/blob/main/imgs/2.gif?raw=true" width="250" />
 </p>
 
+(above gifs may take a bit to load.)
+
+Mini Webapp:
+
 <p float="left">
   <img src="https://github.com/pvnotpv/wabot/blob/main/imgs/5.jpg?raw=true" width="250" />
 </p>
-(above gifs may take a bit to load.)
 
 ## AND MUCH MORE !!!
 
